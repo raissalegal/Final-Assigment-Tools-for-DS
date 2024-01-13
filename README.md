@@ -1,2 +1,2 @@
 # Final-Assigment-Tools-for-DS
-Repository to host my final assigment for Tools for Data Science Course
+This is a repository to host my final assigment for IBM course *Tools for Data Science* available on *Coursera.org*.
